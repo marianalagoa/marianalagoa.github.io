@@ -57,9 +57,9 @@ Since I was 8 years old, music has never left my life. I was part of the board o
 Passionate about adventure and exploring the world one trail at a time
 
 
-<img src="./assets/img/cimoc.jpg" width="250" height="300">
+<img src="./assets/img/cimoc.jpg" width="250" height="250">
 
-<img src="./assets/img/lagoc.jpg" width="250" height="300">
+<img src="./assets/img/lagoc.jpg" width="250" height="250">
 
 
 
