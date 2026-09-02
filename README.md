@@ -44,7 +44,7 @@ As a member of the Pedagogical Department, I supported students by facilitating 
 
 As a member of the External Relations Team, I was responsible for contacting and communicating with companies participating in the event, managing company outreach and supporting the establishment of partnerships for the job fair
 
-<img src="https://github.com/marianalagoa/marianalagoa.github.io/blob/main/assets/img/jeq.JPG" width="280" height="300" />
+<img src="./assets/img/jeq.JPG" width="280" height="300">
 
 
 ## Hobbies
@@ -57,8 +57,9 @@ Since I was 8 years old, music has never left my life. I was part of the board o
 Passionate about adventure and exploring the world one trail at a time
 
 
-<img src="https://github.com/marianalagoa/marianalagoa.github.io/blob/main/assets/img/cimoc.jpg" width="250" height="250" />
+<img src="./assets/img/cimoc.jpg" width="250" height="300">
 
-<img src="https://github.com/marianalagoa/marianalagoa.github.io/blob/main/assets/img/lagoc.jpg" width="250" height="250" />
+<img src="./assets/img/lagoc.jpg" width="250" height="300">
+
 
 
